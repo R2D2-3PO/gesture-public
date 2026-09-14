@@ -1,0 +1,12 @@
+{
+  "final_sigma_BR_norm": 0.35616404466868135,
+  "rms_sigma_BR_norm": 0.4908896253942226,
+  "max_sigma_BR_norm": 0.9983073014861871,
+  "final_omega_BR_norm": 0.0009592559854314364,
+  "rms_omega_BR_norm": 0.010255912133130457,
+  "max_omega_BR_norm": 0.03372820803474744,
+  "final_sigma_BN_norm": 0.43785245939098716,
+  "rms_omega_BN_norm": 0.010622440643745987,
+  "elapsed_sec": 104.95383810997009,
+  "samples": 1201
+}
