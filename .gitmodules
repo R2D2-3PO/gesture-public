@@ -1,4 +1,4 @@
 [submodule "basilisk"]
 	path = basilisk
 	url = https://github.com/R2D2-3PO/basilisk.git
-	branch = gesture-project-upload-20260928
+	branch = gesture-local-exact-20260928
